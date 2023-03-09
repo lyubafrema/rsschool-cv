@@ -27,8 +27,8 @@ I believe, that my ability to learn and to gain new skills will help me to becom
 
 ## Code example
 
-A Needle in the Haystack Kata from Codewars: \*Write a function findNeedle() that takes an array full of junk but containing one "needle". After your function finds the needle it should return a message (as a string) that says:
-"found the needle at position " plus the index it found the needle.\*
+A Needle in the Haystack Kata from CODEWARS: _Write a function findNeedle() that takes an array full of junk but containing one "needle". After your function finds the needle it should return a message (as a string) that says:
+"found the needle at position " plus the index it found the needle._
 
 ```
 function findNeedle(haystack) {
@@ -43,6 +43,6 @@ function findNeedle(haystack) {
 
 ## Languages
 
-- English - advanced
-  ![english-test-result](/../../Free%2015-minute%20English%20test%20%7C%20EF%20SET%20Quick%20Check%202023-03-09%2018-15-30.png)
+- English - advanced (due to the test at [www.efset.org]('https://www.efset.org/))
+  ![efset-english-test-result](./images/Free%2015-minute%20English%20test%20%7C%20EF%20SET%20Quick%20Check%202023-03-09%2018-15-30.png)
 - Russian - native
