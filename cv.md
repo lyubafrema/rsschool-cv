@@ -23,7 +23,7 @@ I believe, that my ability to learn and to gain new skills will help me to becom
 
 ===
 
-## Skills:
+## Skills
 
 - HTML and CSS (BEM methodology)
 - JavaScript (fundamentals, asynchronous JS, OOP, ES6+, DOM, JSON)
@@ -32,3 +32,31 @@ I believe, that my ability to learn and to gain new skills will help me to becom
 - Webpack
 - VS Code
 - Figma (for web development)
+
+===
+
+## Code example
+
+A Needle in the Haystack Kata from Codewars:
+
+```
+function findNeedle(haystack) {
+  let index = haystack.findIndex(i => i == "needle")
+  return `found the needle at position ${index}`
+}
+```
+
+===
+
+## Courses
+
+- Yandex.Practicum Course Web Developer (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+===
+
+## Languages
+
+- English - advanced
+  ![english-test-result](../../Free%2015-minute%20English%20test%20%7C%20EF%20SET%20Quick%20Check%202023-03-09%2018-15-30.png)
+- Russian - native
