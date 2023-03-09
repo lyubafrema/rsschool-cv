@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lyubafrema.github.io/rsschool-cv/cv
